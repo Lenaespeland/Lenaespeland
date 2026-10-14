@@ -12,7 +12,6 @@
 
 Developing my IT skills and studying for a bachelor's degree in IT and Information Systems at the University of South-Eastern Norway.
 
-🌱 &nbsp;I'm currently learning **Python**
 
 ### 🛠️ Tech Stack
 
